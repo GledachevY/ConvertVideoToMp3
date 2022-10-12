@@ -1,0 +1,16 @@
+{
+  "name": "video-to-mp3",
+  "version": "1.0.0",
+  "description": "converter for video to mp3",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yavor Gledachev",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "video-to-audio": "^1.0.1"
+  }
+}
